@@ -1,0 +1,20 @@
+{
+  "name": "robotfactory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Nka",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.2",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.2"
+  }
+}
